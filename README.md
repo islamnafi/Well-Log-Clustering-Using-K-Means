@@ -2,7 +2,7 @@ This project applies **K-Means clustering** to petrophysical well log data to id
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - **Python 3**
 - **pandas**, **numpy**
@@ -11,7 +11,7 @@ This project applies **K-Means clustering** to petrophysical well log data to id
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - Features used:
   - `RHOB` – Bulk Density  
